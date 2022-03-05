@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-06-13T00:00:00.000" last_update="2021-06-13T01:09:13.933" submission_date="2019-02-20T16:41:03.190" id="10977246" accession="SAMN10977246">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN10977246</Id>
+      <Id db="SRA">SRS4386168</Id>
+      <Id db="GEO">GSM3615065</Id>
+    </Ids>
+    <Description>
+      <Title>Wild_M_Smeg</Title>
+      <Organism taxonomy_id="1772" taxonomy_name="Mycolicibacterium smegmatis">
+        <OrganismName>Mycolicibacterium smegmatis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Infection biology and \inflammation lab, National Institute of Pathology</Name>
+      <Contacts>
+        <Contact email="nzehtesham@gmail.com">
+          <Name>
+            <First>Nasreen</First>
+            <Last>Ehtesham</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Mycobacterium smegmatis</Attribute>
+      <Attribute attribute_name="sample type" harmonized_name="sample_type" display_name="sample type">Acid fast Bacilli</Attribute>
+      <Attribute attribute_name="phenotye">Fast grower</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">wild type</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM3615065">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3615065</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA523434">523434</Link>
+    </Links>
+    <Status status="live" when="2021-06-13T00:50:07.090"/>
+  </BioSample>
+</BioSampleSet>

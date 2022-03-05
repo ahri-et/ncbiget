@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2012-10-08T00:00:00.000" last_update="2021-08-21T01:19:51.000" submission_date="2012-10-09T09:08:04.580" id="1760094" accession="SAMEA1530904">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA1530904</Id>
+      <Id db="SRA">ERS142715</Id>
+    </Ids>
+    <Description>
+      <Title>8205_7#41</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ArrayExpress-Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="ENA first public">2012-10-08</Attribute>
+      <Attribute attribute_name="ENA last update">2018-03-09</Attribute>
+      <Attribute attribute_name="External Id">SAMEA1530904</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2012-10-08T17:01:35Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T12:17:07Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">99004077-sc-2012-05-29T15:25:59Z-1428858</Attribute>
+      <Attribute attribute_name="anonymized name">1428858</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">1999</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">Malawi</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">disease:tuberculosis</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">other</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">99004077-sc-2012-05-29T15:25:59Z-1428858</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">ERS142715</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-07-28T08:14:11"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2019-06-24T00:00:00.000" last_update="2019-06-24T08:46:19.520" submission_date="2019-06-24T06:34:05.863" id="12125119" accession="SAMN12125119">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN12125119</Id>
+      <Id db_label="Sample name">251</Id>
+      <Id db="SRA">SRS5016821</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Genoscreen</Name>
+      <Contacts>
+        <Contact email="nelly.badalato@genoscreen.fr">
+          <Name>
+            <First>Nelly</First>
+            <Last>BADALATO</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">251</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">National Health Laboratory Service Dr George Mukhari Tertiary Laboratory</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2013/2018</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">South Africa</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">clinical sample</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">28.37 S 24.20 E</Attribute>
+    </Attributes>
+    <Status status="live" when="2019-06-24T06:34:05.864"/>
+  </BioSample>
+</BioSampleSet>

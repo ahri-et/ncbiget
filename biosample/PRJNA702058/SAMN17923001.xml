@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-07-16T00:00:00.000" last_update="2021-07-16T02:44:47.747" submission_date="2021-02-16T08:11:08.830" id="17923001" accession="SAMN17923001">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN17923001</Id>
+      <Id db="SRA">SRS8264190</Id>
+      <Id db="GEO">GSM5085885</Id>
+    </Ids>
+    <Description>
+      <Title>mtrA1pJR962-MC2-155-ATc-7</Title>
+      <Organism taxonomy_id="246196" taxonomy_name="Mycolicibacterium smegmatis MC2 155">
+        <OrganismName>Mycolicibacterium smegmatis MC2 155</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Baliga, Institute for Systems Biology</Name>
+      <Contacts>
+        <Contact email="eliza.peterson@systemsbiology.org">
+          <Name>
+            <First>Eliza</First>
+            <Last>Peterson</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">bacterial culture</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">MC2 155</Attribute>
+      <Attribute attribute_name="induction">ATc induced</Attribute>
+      <Attribute attribute_name="induction time">14 hour</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5085885">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5085885</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA702058">702058</Link>
+    </Links>
+    <Status status="live" when="2021-07-16T02:08:08.850"/>
+  </BioSample>
+</BioSampleSet>

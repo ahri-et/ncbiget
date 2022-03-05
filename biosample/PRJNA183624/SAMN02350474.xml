@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" submission_date="2013-09-06T13:11:21.170" publication_date="2013-09-06T00:00:00.000" last_update="2021-02-28T02:09:57.593" id="2350474" accession="SAMN02350474">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN02350474</Id>
+      <Id db_label="Sample name">NL_024</Id>
+      <Id db="SRA">SRS494391</Id>
+    </Ids>
+    <Description>
+      <Title>Generic sample from Mycobacterium tuberculosis TKK_04_0024</Title>
+      <Organism taxonomy_id="1397919" taxonomy_name="Mycobacterium tuberculosis TKK_04_0024"/>
+    </Description>
+    <Owner>
+      <Name>Broad Institute</Name>
+      <Contacts>
+        <Contact email="suhamil@broadinstitute.org">
+          <Name>
+            <First>Susanna</First>
+            <Last>Hamilton</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model version="1.0">Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Strain" harmonized_name="strain" display_name="strain">TKK_04_0024</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2013-05-22</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea, region)" harmonized_name="geo_loc_name" display_name="geographic location">Kenya: KDH MS1 Male TB Medical</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation-source" harmonized_name="isolation_source" display_name="isolation source">unknown</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject">218291</Link>
+    </Links>
+    <Status status="live" when="2013-09-06T13:12:27.467"/>
+  </BioSample>
+</BioSampleSet>

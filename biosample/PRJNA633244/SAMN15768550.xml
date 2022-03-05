@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-08-09T00:00:00.000" last_update="2021-02-24T11:38:47.733" submission_date="2020-08-09T07:49:05.946" id="15768550" accession="SAMN15768550">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN15768550</Id>
+      <Id db_label="Sample name">CP49</Id>
+      <Id db="SRA">SRS7169569</Id>
+    </Ids>
+    <Description>
+      <Title>CP49</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name url="https://www.kku.ac.th/?l=en">Khon Kaen University</Name>
+      <Contacts>
+        <Contact email="kiatichai@kku.ac.th">
+          <Name>
+            <First>Kiatichai</First>
+            <Last>Faksri</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">2.2.1 - East-Asian (Beijing)</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">CP49</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">Department of Microbiology, Faculty of Medicine, Universitas Indonesia</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2018-01</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Indonesia</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">6.11 S 106.50 E</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA633244">633244</Link>
+    </Links>
+    <Status status="live" when="2020-08-09T07:49:05.947"/>
+  </BioSample>
+</BioSampleSet>

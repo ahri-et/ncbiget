@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2014-05-08T00:00:00.000" last_update="2019-04-17T13:41:54.770" submission_date="2014-05-09T08:05:29.117" id="2768479" accession="SAMEA2517363">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2517363</Id>
+      <Id db="SRA">ERS451420</Id>
+    </Ids>
+    <Description>
+      <Title>6821-03</Title>
+      <Organism taxonomy_id="1494075" taxonomy_name="Mycobacterium tuberculosis complex sp.">
+        <OrganismName>Mycobacterium tuberculosis complex sp.</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">6821-03</Attribute>
+      <Attribute attribute_name="ENA checklist">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center alias">FZB</Attribute>
+      <Attribute attribute_name="INSDC center name">FORSCHUNGSZENTRUM BORSTEL</Attribute>
+      <Attribute attribute_name="INSDC first public">2014-05-08T17:00:44Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2014-05-08T11:36:10Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS451420</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS451420</Attribute>
+      <Attribute attribute_name="Title">WGS of MTBC isolates</Attribute>
+      <Attribute attribute_name="species">Mycobacterium tuberculosis</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-07T23:01:10.737"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample submission_date="2011-04-05T08:13:08.837" last_update="2013-06-12T08:55:38.427" publication_date="2010-09-01T00:00:00.000" access="public" id="14678" accession="SAMN00014678">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN00014678</Id>
+      <Id db="Simon Fraser University" db_label="Sample name">MT0001</Id>
+      <Id db="SRA">SRS074557</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis isolate MT0001</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis"/>
+      <Comment>
+        <Paragraph>An outbreak of tuberculosis (n=41) occurred between 2006 and 2008 in a medium-sized British Columbia community. All cultured isolates had identical MIRU-VNTR patterns. The complete genomes of 32 M. tuberculosis outbreak isolates and four isolates with matching genotypes isolated in the region prior to the outbreak were sequenced using Illumina short read sequencing.</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name abbreviation="">Simon Fraser Univeristy</Name>
+      <Contacts>
+        <Contact email="sjhosui@sfu.ca" phone="778-782-2061" lab="Brinkman Lab">
+          <Name>
+            <First>Shannan</First>
+            <Last>Ho Sui</Last>
+            <Middle>Janelle</Middle>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">MT0001</Attribute>
+    </Attributes>
+    <Status status="live" when="2011-04-05T08:13:08.837"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2022-01-17T00:00:00.000" last_update="2022-01-17T19:47:51.000" submission_date="2022-01-18T08:14:26.046" id="25051501" accession="SAMEA11761389">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA11761389</Id>
+      <Id db="SRA">ERS9408778</Id>
+    </Ids>
+    <Description>
+      <Title>Mtb clinical isolates</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2022-01-17</Attribute>
+      <Attribute attribute_name="ENA last update">2022-01-17</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA11761389</Attribute>
+      <Attribute attribute_name="INSDC center alias">DST/NRF Centre of Excellence for Biomedical TB research, SAMRC Centre for TB Research</Attribute>
+      <Attribute attribute_name="INSDC center name">DST/NRF Centre of Excellence for Biomedical TB research, SAMRC Centre for TB Research</Attribute>
+      <Attribute attribute_name="INSDC first public">2022-01-17T12:30:35Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2022-01-17T12:30:35Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">R28468</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2015</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">South Africa</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">diseased</Attribute>
+      <Attribute attribute_name="host scientific name" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Mtb</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">R28468</Attribute>
+    </Attributes>
+    <Status status="live" when="2022-01-19T08:49:36.367"/>
+  </BioSample>
+</BioSampleSet>

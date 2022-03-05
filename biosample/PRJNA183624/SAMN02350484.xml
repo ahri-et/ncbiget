@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" submission_date="2013-09-06T13:11:21.856" publication_date="2013-09-06T00:00:00.000" last_update="2021-02-28T02:09:58.059" id="2350484" accession="SAMN02350484">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN02350484</Id>
+      <Id db_label="Sample name">NL_036</Id>
+      <Id db="SRA">SRS494397</Id>
+    </Ids>
+    <Description>
+      <Title>Generic sample from Mycobacterium tuberculosis TKK_04_0036</Title>
+      <Organism taxonomy_id="1397929" taxonomy_name="Mycobacterium tuberculosis TKK_04_0036"/>
+    </Description>
+    <Owner>
+      <Name>Broad Institute</Name>
+      <Contacts>
+        <Contact email="suhamil@broadinstitute.org">
+          <Name>
+            <First>Susanna</First>
+            <Last>Hamilton</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model version="1.0">Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Strain" harmonized_name="strain" display_name="strain">TKK_04_0036</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2013-04-24</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea, region)" harmonized_name="geo_loc_name" display_name="geographic location">South Africa: Mosvold Hospital - isolation ward</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation-source" harmonized_name="isolation_source" display_name="isolation source">unknown</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject">218301</Link>
+    </Links>
+    <Status status="live" when="2013-09-06T13:12:23.510"/>
+  </BioSample>
+</BioSampleSet>

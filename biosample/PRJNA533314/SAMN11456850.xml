@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2019-04-17T00:00:00.000" last_update="2019-04-20T05:18:47.803" submission_date="2019-04-17T14:19:04.270" id="11456850" accession="SAMN11456850">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN11456850</Id>
+      <Id db_label="Sample name">MBA-9-76</Id>
+      <Id db="SRA">SRS4644342</Id>
+    </Ids>
+    <Description>
+      <Title>Microbe sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Sorbonne Universite, INSERM, U1135</Name>
+      <Contacts>
+        <Contact email="florence-morel@hotmail.fr">
+          <Name>
+            <First>Florence</First>
+            <Last>MOREL</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Microbe, viral or environmental</Model>
+    </Models>
+    <Package display_name="Microbe; version 1.0">Microbe.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">MBA-9-76</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2013</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">France</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">bacterial culture</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA533314">533314</Link>
+    </Links>
+    <Status status="live" when="2019-04-17T14:19:04.269"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-12-31T00:53:19.673" last_update="2021-12-31T00:53:19.673" submission_date="2021-07-26T05:17:07.030" id="20395464" accession="SAMN20395464">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN20395464</Id>
+      <Id db_label="Sample name">TC113447</Id>
+      <Id db="SRA">SRS9585955</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Makerere University</Name>
+      <Contacts>
+        <Contact email="gmboowa@gmail.com">
+          <Name>
+            <First>Gerald</First>
+            <Last>Mboowa</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">tuberculosis</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Sputum</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">Gerald Mboowa</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2020-02-02</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Uganda: Lira</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">TB</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">2.2517 N 32.9019 E</Attribute>
+      <Attribute attribute_name="host_sex" harmonized_name="host_sex" display_name="host sex">male</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA749651">749651</Link>
+    </Links>
+    <Status status="live" when="2021-12-31T00:53:19.673"/>
+  </BioSample>
+</BioSampleSet>

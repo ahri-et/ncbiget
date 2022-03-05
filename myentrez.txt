@@ -1,0 +1,75 @@
+$ esearch -db sra -query 'PRJNA235852[bioproject]' | efetch -format runinfo
+$ cat projlist.txt | xargs -I{} prefetch
+
+
+$ esearch -db biosample -query 'SAMN03648421' | efetch -format xml | cat > SAMN03648421.xml
+
+$ esearch -db biosample -query 'PRJNA523434[bioproject]' | efetch -format runinfo
+
+
+$ cat ../projlist.txt | xargs -I % sh -c 'mkdir %'
+
+$ find ./biosample -maxdepth 3 -type f -empty 
+
+SAMN03648421
+
+PRJNA183624
+PRJNA200335
+PRJEB43710
+PRJNA727901
+PRJNA671683
+PRJEB38144
+PRJNA598207
+PRJNA560875
+
+
+PRJEB15857
+
+https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB15857
+
+https://www.ncbi.nlm.nih.gov/bioproject?Db=biosample&DbFrom=bioproject&Cmd=Link&LinkName=bioproject_biosample&LinkReadableName=BioSample&ordinalpos=1&IdsFromResult=357225
+
+https://www.ncbi.nlm.nih.gov/portal/utils/file_backend.cgi?Db=biosample&HistoryId=MCID_621c90d7981ecd3ec90b031a&QueryKey=28&Sort=&Filter=all&CompleteResultCount=30&Mode=file&View=acclist&p$l=Email&portalSnapshot=%2Fprojects%2FBioSample%2Fbiosample%401.36&BaseUrl=&PortName=live&FileName=
+
+
+await fetch("https://www.ncbi.nlm.nih.gov/portal/utils/file_backend.cgi?Db=biosample&HistoryId=MCID_621c90d7981ecd3ec90b031a&QueryKey=28&Sort=&Filter=all&CompleteResultCount=30&Mode=file&View=acclist&p$l=Email&portalSnapshot=%2Fprojects%2FBioSample%2Fbiosample%401.36&BaseUrl=&PortName=live&FileName=", {
+    "credentials": "include",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-User": "?1"
+    },
+    "referrer": "https://www.ncbi.nlm.nih.gov/biosample?Db=biosample&DbFrom=bioproject&Cmd=Link&LinkName=bioproject_biosample&LinkReadableName=BioSample&ordinalpos=1&IdsFromResult=357225",
+    "method": "GET",
+    "mode": "cors"
+});
+
+
+
+https://www.ncbi.nlm.nih.gov/biosample?LinkName=bioproject_biosample_all&from_uid=203970
+
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi -d retmax=0&usehistory=y&db=biosample&term=SAMEA2535355&tool=edirect&edirect=16.6&edirect_os=Linux&email=nas%40dembosko
+
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -retmax 0 -usehistory y -db biosample -term SAMEA11761241 -tool edirect -edirect 16.6 -edirect_os Linux -email nas@dembosko
+
+
+esearch -db biosample -term PRJNA701434 -usehistory y
+
+
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ esearch.fcgi -retmax 0 -usehistory y -db biosample -term PRJNA771241 -tool edirect -edirect 16.6 -edirect_os Linux -email nas@dembosko
+
+
+#get WebEnv and QueryKey from project uid
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=bioproject&db=biosample&id=771241&linkname=bioproject_biosample_all&cmd=neighbor_history
+
+#
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/
+esearch.fcgi?db=biosample&term=$term&WebEnv=$web&usehistory=y
+
+#
+https://www.ncbi.nlm.nih.gov/portal/utils/file_backend.cgi?Db=biosample&HistoryId=MCID_621e1e7aa47b6608d24bfed3&QueryKey=1&Sort=&Filter=all&CompleteResultCount=178&Mode=file&View=acclist&p$l=Email&portalSnapshot=/projects/BioSample/biosample@1.36&BaseUrl=&PortName=live&FileName=

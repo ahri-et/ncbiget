@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" submission_date="2013-04-19T11:46:17.666" publication_date="2013-04-19T00:00:00.000" last_update="2019-06-20T16:20:39.753" id="2053806" accession="SAMN02053806">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN02053806</Id>
+      <Id db_label="Sample name">TKK-01-0075</Id>
+      <Id db="SRA">SRS415215</Id>
+    </Ids>
+    <Description>
+      <Title>Generic sample from Mycobacterium Tuberculosis TKK-01-0075</Title>
+      <Organism taxonomy_id="1324283" taxonomy_name="Mycobacterium tuberculosis TKK-01-0075">
+        <OrganismName>Mycobacterium tuberculosis TKK-01-0075</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Broad Institute</Name>
+      <Contacts>
+        <Contact email="suhamil@broadinstitute.org">
+          <Name>
+            <First>Susanna</First>
+            <Last>Hamilton</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model version="1.0">Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2010-02-26</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation-source" harmonized_name="isolation_source" display_name="isolation source">bodily fluid</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea, region)" harmonized_name="geo_loc_name" display_name="geographic location">South Africa: Ngwelezane</Attribute>
+      <Attribute attribute_name="Strain" harmonized_name="strain" display_name="strain">TKK-01-0075</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject">198170</Link>
+      <Link type="entrez" target="bioproject">196861</Link>
+    </Links>
+    <Status status="live" when="2014-07-23T14:31:12"/>
+  </BioSample>
+</BioSampleSet>

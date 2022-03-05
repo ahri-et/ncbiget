@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-03-09T00:00:00.000" last_update="2021-03-11T11:24:57.120" submission_date="2021-03-08T10:26:09.730" id="18206410" accession="SAMN18206410">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN18206410</Id>
+      <Id db="SRA">SRS8402084</Id>
+      <Id db="GEO">GSM5140824</Id>
+    </Ids>
+    <Description>
+      <Title>RML1001 (Lung 6 D21)</Title>
+      <Organism taxonomy_id="10090" taxonomy_name="Mus musculus">
+        <OrganismName>Mus musculus</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Singapore Immunology Network (SIgN)</Name>
+      <Contacts>
+        <Contact email="angdzn@immunol.a-star.edu.sg">
+          <Name>
+            <First>Nicholas</First>
+            <Last>Ang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Lung tissue</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C57BL/6</Attribute>
+      <Attribute attribute_name="Sex" harmonized_name="sex" display_name="sex">female</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">lung</Attribute>
+      <Attribute attribute_name="infection_state">infected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">disulfiram</Attribute>
+      <Attribute attribute_name="timepoint">D21</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5140824">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5140824</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA707475">707475</Link>
+    </Links>
+    <Status status="live" when="2021-03-09T02:46:09.914"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2014-03-03T00:00:00.000" last_update="2021-08-20T07:00:31.000" submission_date="2014-03-04T08:06:00.810" id="2672264" accession="SAMEA2297154">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2297154</Id>
+      <Id db="SRA">ERS389541</Id>
+    </Ids>
+    <Description>
+      <Title>OxTb-55</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="ENA-FIRST-PUBLIC">2014-03-03</Attribute>
+      <Attribute attribute_name="ENA-LAST-UPDATE">2014-01-06</Attribute>
+      <Attribute attribute_name="External Id">SAMEA2297154</Attribute>
+      <Attribute attribute_name="INSDC center alias">UNIVERISTY OF OXFORD</Attribute>
+      <Attribute attribute_name="INSDC center name">University of Oxford, Oxford, UK</Attribute>
+      <Attribute attribute_name="INSDC first public">2014-03-03T16:32:10Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2014-01-06T14:23:05Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">C00016530</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">C00016530</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-10T19:09:02"/>
+  </BioSample>
+</BioSampleSet>

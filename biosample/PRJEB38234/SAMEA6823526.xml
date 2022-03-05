@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-07-10T00:00:00.000" last_update="2021-08-22T16:26:33.000" submission_date="2020-07-11T16:06:58.156" id="15509069" accession="SAMEA6823526">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA6823526</Id>
+      <Id db="SRA">ERS4551156</Id>
+    </Ids>
+    <Description>
+      <Title>Mtb from Belarus</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>M. tuberculosis isolate DKCHIP-02</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2020-07-10</Attribute>
+      <Attribute attribute_name="ENA last update">2020-05-11</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000028</Attribute>
+      <Attribute attribute_name="External Id">SAMEA6823526</Attribute>
+      <Attribute attribute_name="INSDC center alias">STATENS SERUM INSTITUT</Attribute>
+      <Attribute attribute_name="INSDC center name">STATENS SERUM INSTITUT</Attribute>
+      <Attribute attribute_name="INSDC first public">2020-07-10T04:06:07Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2020-05-11T13:56:28Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">DKCHIP-02</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2011</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">Belarus</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">diseased</Attribute>
+      <Attribute attribute_name="host scientific name" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">?</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">DKCHIP-02</Attribute>
+    </Attributes>
+    <Status status="live" when="2020-07-12T15:06:59.203"/>
+  </BioSample>
+</BioSampleSet>

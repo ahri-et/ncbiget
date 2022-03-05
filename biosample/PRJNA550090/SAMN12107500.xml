@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-01-01T00:00:00.000" last_update="2020-01-01T03:48:28.813" submission_date="2019-06-21T11:01:14.727" id="12107500" accession="SAMN12107500">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN12107500</Id>
+      <Id db="SRA">SRS5002908</Id>
+      <Id db="GEO">GSM3900901</Id>
+    </Ids>
+    <Description>
+      <Title>Infected_Donor1_BDQ1</Title>
+      <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+        <OrganismName>Homo sapiens</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>integrated mycobacterial pathogenomics, Microbiology, Institut Pasteur</Name>
+      <Contacts>
+        <Contact email="alexandre.giraud.gatineau@gmail.com">
+          <Name>
+            <First>Alexandre</First>
+            <Last>Giraud-Gatineau</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Blood mononuclear cells</Attribute>
+      <Attribute attribute_name="donor">1</Attribute>
+      <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">human monocyte-derived macrophages</Attribute>
+      <Attribute attribute_name="infection status">infected</Attribute>
+      <Attribute attribute_name="bacterial strain">H37Rv</Attribute>
+      <Attribute attribute_name="treatment status">BDQ 0.5 microg/mL</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM3900901">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3900901</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA550090">550090</Link>
+    </Links>
+    <Status status="live" when="2020-01-01T00:50:15.490"/>
+  </BioSample>
+</BioSampleSet>

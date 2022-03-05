@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-11-06T00:00:00.000" last_update="2020-11-06T01:19:20.010" submission_date="2019-08-19T07:16:04.413" id="12599074" accession="SAMN12599074">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN12599074</Id>
+      <Id db="SRA">SRS5285209</Id>
+      <Id db="GEO">GSM4038330</Id>
+    </Ids>
+    <Description>
+      <Title>Rv1720c.mutant_Glycerol_1</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Singapore Immunology Network</Name>
+      <Contacts>
+        <Contact email="duan_kaibo@immunol.a-star.edu.sg">
+          <Name>
+            <First>Kaibo</First>
+            <Last>Duan</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Rv1720c.mutant_Glycerol_1</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">Rv1720c mutant</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">mutant Mtb</Attribute>
+      <Attribute attribute_name="time point">day4</Attribute>
+      <Attribute attribute_name="media">Glycerol</Attribute>
+      <Attribute attribute_name="agent" harmonized_name="compound" display_name="compound">No drug</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM4038330">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4038330</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA560771">560771</Link>
+    </Links>
+    <Status status="live" when="2020-11-06T01:16:10.341"/>
+  </BioSample>
+</BioSampleSet>

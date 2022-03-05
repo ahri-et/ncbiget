@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2011-02-14T00:00:00.000" last_update="2019-01-19T07:23:03.437" submission_date="2011-02-14T19:08:19.807" id="212817" accession="SAMEA837948">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA837948</Id>
+      <Id db="SRA">ERS009135</Id>
+    </Ids>
+    <Description>
+      <Title>M08_14377-sc-2010-05-07-7895</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">M08_14377-sc-2010-05-07-7895</Attribute>
+      <Attribute attribute_name="Country" harmonized_name="geo_loc_name" display_name="geographic location">Estonia</Attribute>
+      <Attribute attribute_name="INSDC center name">SC</Attribute>
+      <Attribute attribute_name="INSDC first public">2011-02-14T17:17:36Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2013-11-04T20:04:37Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS009135</Attribute>
+      <Attribute attribute_name="STRAIN" harmonized_name="strain" display_name="strain">08_14377</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS009135</Attribute>
+      <Attribute attribute_name="Title">M08_14377-sc-2010-05-07-7895</Attribute>
+    </Attributes>
+    <Status status="live" when="2018-03-06T08:07:22"/>
+  </BioSample>
+</BioSampleSet>

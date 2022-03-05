@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-08-10T00:50:13.477" last_update="2021-08-10T00:50:13.477" submission_date="2020-07-11T07:28:05.600" id="15507652" accession="SAMN15507652">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN15507652</Id>
+      <Id db_label="Sample name">Myanmar-Thai border TB isolate</Id>
+      <Id db="SRA">SRS6986719</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>National TB Programme</Name>
+      <Contacts>
+        <Contact email="htetmyetwinmaung@gmail.com">
+          <Name>
+            <First>Htet Myat</First>
+            <Last>Maung</Last>
+            <Middle>Win</Middle>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">microbial</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Sputum samples from TB patient</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">National TB Programme, Myanmar</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2019-03</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Myanmar</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">Kayin State, Myanmar</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">17.3585 N 95.4105 E</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA645523">645523</Link>
+    </Links>
+    <Status status="live" when="2021-08-10T00:50:13.477"/>
+  </BioSample>
+</BioSampleSet>

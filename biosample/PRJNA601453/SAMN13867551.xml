@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-04-30T00:00:00.000" last_update="2020-04-30T02:36:17.640" submission_date="2020-01-15T13:38:03.610" id="13867551" accession="SAMN13867551">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN13867551</Id>
+      <Id db="SRA">SRS6004274</Id>
+      <Id db="GEO">GSM4273338</Id>
+    </Ids>
+    <Description>
+      <Title>Uninfected_Donor1_PZA_Uninfected</Title>
+      <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+        <OrganismName>Homo sapiens</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>integrated mycobacterial pathogenomics, Microbiology, Institut Pasteur</Name>
+      <Contacts>
+        <Contact email="alexandre.giraud.gatineau@gmail.com">
+          <Name>
+            <First>Alexandre</First>
+            <Last>Giraud-Gatineau</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Blood mononuclear cells</Attribute>
+      <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">human monocyte-derived macrophages</Attribute>
+      <Attribute attribute_name="infection status">uninfected</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">PZA</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM4273338">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4273338</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA601453">601453</Link>
+    </Links>
+    <Status status="live" when="2020-04-30T00:38:56.477"/>
+  </BioSample>
+</BioSampleSet>

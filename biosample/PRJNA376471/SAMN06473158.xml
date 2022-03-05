@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2017-08-29T00:00:00.000" last_update="2021-02-24T10:33:18.320" submission_date="2017-03-03T03:53:07.826" id="6473158" accession="SAMN06473158">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN06473158</Id>
+      <Id db_label="Sample name">OU11-FMR245</Id>
+      <Id db="SRA">SRS2045975</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name url="http://www.fmrindia.org/">The Foundation for Medical Research</Name>
+      <Contacts>
+        <Contact email="fmr@fmrindia.org">
+          <Name>
+            <First>Nerges</First>
+            <Last>Mistry</Last>
+            <Middle>Furdoon</Middle>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">isolate_9</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">Foundation for Medical Research</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2005-05-12</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">India:Mumbai</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">19.0760 N 72.8777 E</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA376471">376471</Link>
+    </Links>
+    <Status status="live" when="2017-08-29T18:37:17.077"/>
+  </BioSample>
+</BioSampleSet>

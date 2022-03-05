@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2010-08-31T00:00:00.000" last_update="2021-08-23T08:53:03.000" submission_date="2010-09-11T23:13:44.320" id="111637" accession="SAMEA837901">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA837901</Id>
+      <Id db="SRA">ERS009088</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="83332" taxonomy_name="Mycobacterium tuberculosis H37Rv">
+        <OrganismName>Mycobacterium tuberculosis H37Rv</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2010-08-31</Attribute>
+      <Attribute attribute_name="ENA last update">2018-03-09</Attribute>
+      <Attribute attribute_name="External Id">SAMEA837901</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2010-08-31T17:04:20Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T09:53:16Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">H37Rv-sc-2010-05-07-4876</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">H37Rv-sc-2010-05-07-4876</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">H37Rv</Attribute>
+      <Attribute attribute_name="type-material">type strain of Mycobacterium tuberculosis</Attribute>
+    </Attributes>
+    <Status status="live" when="2018-03-10T08:10:29"/>
+  </BioSample>
+</BioSampleSet>

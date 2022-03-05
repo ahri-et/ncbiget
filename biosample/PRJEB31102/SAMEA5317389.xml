@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2019-10-01T00:00:00.000" last_update="2021-08-22T03:53:26.000" submission_date="2019-10-02T18:07:48.056" id="12902201" accession="SAMEA5317389">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA5317389</Id>
+      <Id db="SRA">ERS3124627</Id>
+    </Ids>
+    <Description>
+      <Title>ChIP-seq of Lsr2 DNA binding in M.tuberculosis H37Rv wt and Lsr2 mutants</Title>
+      <Organism taxonomy_id="83332" taxonomy_name="Mycobacterium tuberculosis H37Rv">
+        <OrganismName>Mycobacterium tuberculosis H37Rv</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>ChIP-seq of Lsr2 DNA binding in M.tuberculosis H37Rv in wild type and Lsr2 T112A and T112D backgrounds</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2019-10-01</Attribute>
+      <Attribute attribute_name="ENA last update">2019-02-05</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000028</Attribute>
+      <Attribute attribute_name="External Id">SAMEA5317389</Attribute>
+      <Attribute attribute_name="INSDC center alias">UNIVERSITY OF SUSSEX</Attribute>
+      <Attribute attribute_name="INSDC center name">UNIVERSITY OF SUSSEX</Attribute>
+      <Attribute attribute_name="INSDC first public">2019-10-01T17:06:02Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2019-02-05T17:37:22Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">M.tb H37Rv Lsr2 ChIP-seq7 T112A biological replicate 2</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2017-09-06</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">United Kingdom</Attribute>
+      <Attribute attribute_name="host scientific name" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">Laboratory in vitro</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">M.tb H37Rv Lsr2 ChIP-seq7 T112A biological replicate 2</Attribute>
+      <Attribute attribute_name="serovar" harmonized_name="serovar" display_name="serovar">H37Rv</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">T112A</Attribute>
+    </Attributes>
+    <Status status="live" when="2019-10-07T08:27:09.807"/>
+  </BioSample>
+</BioSampleSet>

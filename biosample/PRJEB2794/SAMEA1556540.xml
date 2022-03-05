@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2015-07-27T00:00:00.000" last_update="2018-01-21T23:47:55.009" submission_date="2012-10-23T09:07:05.713" id="1779101" accession="SAMEA1556540">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA1556540</Id>
+      <Id db="SRA">ERS142290</Id>
+    </Ids>
+    <Description>
+      <Title>8001508-sc-2012-05-29T15:13:08Z-1429205</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS142290</Attribute>
+      <Attribute attribute_name="Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="anonymized name">1429205</Attribute>
+      <Attribute attribute_name="colection date" harmonized_name="collection_date" display_name="collection date">2007</Attribute>
+      <Attribute attribute_name="country" harmonized_name="geo_loc_name" display_name="geographic location">Malawi</Attribute>
+      <Attribute attribute_name="host status" harmonized_name="host_health_state" display_name="host health state">disease:tuberculosis</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">ERS142290</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-07-28T08:14:23"/>
+  </BioSample>
+</BioSampleSet>

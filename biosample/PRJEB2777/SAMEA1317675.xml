@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2012-04-12T00:00:00.000" last_update="2021-08-21T01:07:26.000" submission_date="2012-04-18T20:31:26.120" id="859815" accession="SAMEA1317675">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA1317675</Id>
+      <Id db="SRA">ERS075381</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis; Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ArrayExpress-Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="ENA first public">2012-04-12</Attribute>
+      <Attribute attribute_name="ENA last update">2018-03-09</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA1317675</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2012-04-12T09:41:07Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T11:40:33Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">401107-sc-2011-11-29T12:46:57Z-1312573</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2008/2014</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">South Africa: Stellenbosch</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">disease: tuberculosis</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">20b</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">401107-sc-2011-11-29T12:46:57Z-1312573</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">401107</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-09-10T08:20:34"/>
+  </BioSample>
+</BioSampleSet>

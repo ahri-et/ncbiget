@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-04-07T00:00:00.000" last_update="2021-04-09T12:25:19.617" submission_date="2021-03-28T11:09:03.940" id="18521320" accession="SAMN18521320">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN18521320</Id>
+      <Id db_label="Sample name">8651-04</Id>
+      <Id db="SRA">SRS8670056</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis complex sp.</Title>
+      <Organism taxonomy_id="1494075" taxonomy_name="Mycobacterium tuberculosis complex sp.">
+        <OrganismName>Mycobacterium tuberculosis complex sp.</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>UMCG</Name>
+      <Contacts>
+        <Contact email="peker.nilay@gmail.com">
+          <Name>
+            <First>Nilay</First>
+            <Last>Peker</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">missing</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">missing</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">FORSCHUNGSZENTRUM BORSTEL</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2004</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">missing</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">bacterial culture</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">missing</Attribute>
+      <Attribute attribute_name="genotype" harmonized_name="genotype" display_name="genotype">Beijing - CAO</Attribute>
+      <Attribute attribute_name="host_tissue_sampled" harmonized_name="host_tissue_sampled" display_name="host tissue sampled">respiratory material</Attribute>
+      <Attribute attribute_name="accession_number">ERS457493</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJEB9680">287903</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA718054">718054</Link>
+    </Links>
+    <Status status="live" when="2021-04-07T17:15:02.888"/>
+  </BioSample>
+</BioSampleSet>

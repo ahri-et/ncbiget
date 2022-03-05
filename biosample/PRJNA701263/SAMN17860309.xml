@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-06-30T00:00:00.000" last_update="2021-06-30T03:31:53.907" submission_date="2021-02-10T13:40:16.657" id="17860309" accession="SAMN17860309">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN17860309</Id>
+      <Id db="SRA">SRS8230869</Id>
+      <Id db="GEO">GSM5075722</Id>
+    </Ids>
+    <Description>
+      <Title>3011857B: whole_blood_Control_27</Title>
+      <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens">
+        <OrganismName>Homo sapiens</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Cidacs, Instituto Gonçalo Moniz</Name>
+      <Contacts>
+        <Contact email="arturlopo@gmail.com">
+          <Name>
+            <First>Artur</First>
+            <Last>Queiroz</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">whole blood</Attribute>
+      <Attribute attribute_name="disease state" harmonized_name="disease" display_name="disease">HIV-infected</Attribute>
+      <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">whole blood</Attribute>
+      <Attribute attribute_name="tb status">uninfected</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5075722">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5075722</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA701263">701263</Link>
+    </Links>
+    <Status status="live" when="2021-06-30T00:52:03.500"/>
+  </BioSample>
+</BioSampleSet>

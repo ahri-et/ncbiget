@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample submission_date="2013-02-01T09:05:26.730" last_update="2014-06-03T16:20:00.050" publication_date="2013-08-09T07:44:16.487" access="public" id="1908797" accession="SAMN01908797">
+    <Ids>
+      <Id db="BioSample">SAMN01908797</Id>
+      <Id db="BGI" db_label="Sample name">BGI_GZ10145</Id>
+      <Id db="SRA" is_primary="1">SRS388866</Id>
+    </Ids>
+    <Description>
+      <Title>Sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis"/>
+    </Description>
+    <Owner>
+      <Name abbreviation="BGI">Beijing Genome Institute</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Status status="live" when="2014-06-03T16:13:31"/>
+  </BioSample>
+</BioSampleSet>

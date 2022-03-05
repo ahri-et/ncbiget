@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" submission_date="2013-04-19T11:46:18.163" publication_date="2013-04-19T00:00:00.000" last_update="2019-06-20T16:20:40.200" id="2053818" accession="SAMN02053818">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN02053818</Id>
+      <Id db_label="Sample name">TKK-01-0088</Id>
+      <Id db="SRA">SRS454485</Id>
+    </Ids>
+    <Description>
+      <Title>Generic sample from Mycobacterium Tuberculosis TKK-01-0088</Title>
+      <Organism taxonomy_id="1324295" taxonomy_name="Mycobacterium tuberculosis TKK-01-0088"/>
+    </Description>
+    <Owner>
+      <Name>Broad Institute</Name>
+      <Contacts>
+        <Contact email="suhamil@broadinstitute.org">
+          <Name>
+            <First>Susanna</First>
+            <Last>Hamilton</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model version="1.0">Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Strain" harmonized_name="strain" display_name="strain">TKK-01-0088</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2008-02-29</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea, region)" harmonized_name="geo_loc_name" display_name="geographic location">South Africa: Rietvlei</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation-source" harmonized_name="isolation_source" display_name="isolation source">bodily fluid</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject">196861</Link>
+      <Link type="entrez" target="bioproject">198183</Link>
+    </Links>
+    <Status status="live" when="2013-04-19T11:58:11.130"/>
+  </BioSample>
+</BioSampleSet>

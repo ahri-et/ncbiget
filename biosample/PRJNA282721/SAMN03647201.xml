@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2015-07-07T07:58:59.460" last_update="2015-07-14T09:07:22.820" submission_date="2015-05-08T11:08:47.157" id="3647201" accession="SAMN03647201">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN03647201</Id>
+      <Id db_label="Sample name">07962493-ea41-44b2-a834-b2891881fdb7</Id>
+      <Id db="SRA">SRS991819</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>University of Oxford</Name>
+      <Contacts>
+        <Contact email="vasiliki.kostiou@ndm.ox.ac.uk">
+          <Name>
+            <First>Vasiliki</First>
+            <Last>Kostiou</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">07962493-ea41-44b2-a834-b2891881fdb7</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">missing</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">missing</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">missing</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">missing</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">missing</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">missing</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA282721">282721</Link>
+    </Links>
+    <Status status="live" when="2015-07-07T07:58:59.460"/>
+  </BioSample>
+</BioSampleSet>

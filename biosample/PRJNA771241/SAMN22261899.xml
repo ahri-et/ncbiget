@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-10-14T00:00:00.000" last_update="2021-12-04T20:33:14.727" submission_date="2021-10-14T07:05:07.967" id="22261899" accession="SAMN22261899">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN22261899</Id>
+      <Id db_label="Sample name">sample59.bam</Id>
+      <Id db="SRA">SRS11226290</Id>
+    </Ids>
+    <Description>
+      <Title>Microbe sample from Mycobacterium</Title>
+      <Organism taxonomy_id="1763" taxonomy_name="Mycobacterium">
+        <OrganismName>Mycobacterium</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Beijing Chest Hospital</Name>
+      <Contacts>
+        <Contact email="Duweili789@163.com">
+          <Name>
+            <First>Du</First>
+            <Last>Weili</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Microbe, viral or environmental</Model>
+    </Models>
+    <Package display_name="Microbe; version 1.0">Microbe.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">M.sp-59</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">not collected</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not collected</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2020-05-07</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China:Beijing-59</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">tissue sample</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA771241">771241</Link>
+    </Links>
+    <Status status="live" when="2021-10-14T07:05:07.966"/>
+  </BioSample>
+</BioSampleSet>

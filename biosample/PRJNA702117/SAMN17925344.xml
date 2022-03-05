@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-02-17T00:00:00.000" last_update="2021-02-17T02:50:17.967" submission_date="2021-02-16T11:56:08.010" id="17925344" accession="SAMN17925344">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN17925344</Id>
+      <Id db="SRA">SRS8266967</Id>
+      <Id db="GEO">GSM5086670</Id>
+    </Ids>
+    <Description>
+      <Title>Mtb_2</Title>
+      <Organism taxonomy_id="10090" taxonomy_name="Mus musculus">
+        <OrganismName>Mus musculus</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Shanghai Key Lab of Tuberculosis, Shanghai Pulmonary Hospital, Tongji University School of Medicine</Name>
+      <Contacts>
+        <Contact email="xiangyang_wu@tongji.edu.cn">
+          <Name>
+            <First>xiangyang</First>
+            <Last>wu</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">peritoneal macrophage</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">C57BL/6</Attribute>
+      <Attribute attribute_name="cell type" harmonized_name="cell_type" display_name="cell type">peritoneal macrophage</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5086670">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5086670</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA702117">702117</Link>
+    </Links>
+    <Status status="live" when="2021-02-17T00:50:11.300"/>
+  </BioSample>
+</BioSampleSet>

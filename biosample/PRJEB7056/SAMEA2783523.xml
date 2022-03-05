@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2015-02-03T00:00:00.000" last_update="2021-08-21T03:32:47.000" submission_date="2015-02-09T18:12:06.443" id="3337451" accession="SAMEA2783523">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2783523</Id>
+      <Id db="SRA">ERS553268</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ArrayExpress-Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="ENA first public">2015-02-03</Attribute>
+      <Attribute attribute_name="ENA last update">2018-03-09</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA2783523</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2015-02-03T09:32:25Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T12:05:56Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">10928-sc-2108373</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">10928-sc-2108373</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">Thailand</Attribute>
+    </Attributes>
+    <Status status="live" when="2018-03-10T19:34:34"/>
+  </BioSample>
+</BioSampleSet>

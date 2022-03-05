@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-02-23T00:00:00.000" last_update="2021-02-23T03:36:02.905" submission_date="2020-09-04T11:51:16.363" id="16060190" accession="SAMN16060190">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN16060190</Id>
+      <Id db_label="Sample name">WT colony1</Id>
+      <Id db="SRA">SRS7346491</Id>
+    </Ids>
+    <Description>
+      <Title>non-treated Mycobacterium tuberculosis H37Ra colony 1</Title>
+      <Organism taxonomy_id="419947" taxonomy_name="Mycobacterium tuberculosis H37Ra">
+        <OrganismName>Mycobacterium tuberculosis H37Ra</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Huazhong Agricultural University</Name>
+      <Contacts>
+        <Contact email="861706559@qq.com">
+          <Name>
+            <First>Wei</First>
+            <Last>Zhou</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Microbe, viral or environmental</Model>
+    </Models>
+    <Package display_name="Microbe; version 1.0">Microbe.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">H37Ra</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">non-treated strain</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2018-10-18</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">China</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">bacteria culture</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA661429">661429</Link>
+    </Links>
+    <Status status="live" when="2021-02-23T03:36:02.905"/>
+  </BioSample>
+</BioSampleSet>

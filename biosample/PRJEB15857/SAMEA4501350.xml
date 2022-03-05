@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2016-12-12T00:00:00.000" last_update="2021-08-21T15:30:32.000" submission_date="2016-12-13T13:09:00.120" id="6137198" accession="SAMEA4501350">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA4501350</Id>
+      <Id db="SRA">ERS1400529</Id>
+    </Ids>
+    <Description>
+      <Title>NG90</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>MTBC</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2016-12-12</Attribute>
+      <Attribute attribute_name="ENA last update">2016-10-21</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000028</Attribute>
+      <Attribute attribute_name="External Id">SAMEA4501350</Attribute>
+      <Attribute attribute_name="INSDC center alias">BIRMINGHAM UNIVERSITY</Attribute>
+      <Attribute attribute_name="INSDC center name">BIRMINGHAM UNIVERSITY</Attribute>
+      <Attribute attribute_name="INSDC first public">2016-12-12T11:05:37Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2016-10-21T09:45:45Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">NG90</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2012</Attribute>
+      <Attribute attribute_name="common name">MTBC</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">Nigeria</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">diseased</Attribute>
+      <Attribute attribute_name="host scientific name" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">MTBC</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">NG90</Attribute>
+    </Attributes>
+    <Status status="live" when="2016-12-13T14:09:28.623"/>
+  </BioSample>
+</BioSampleSet>

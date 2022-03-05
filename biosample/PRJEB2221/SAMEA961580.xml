@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2010-07-26T00:00:00.000" last_update="2019-01-19T21:46:28.793" submission_date="2010-09-12T08:42:57.277" id="112759" accession="SAMEA961580">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA961580</Id>
+      <Id db="SRA">ERS013338</Id>
+    </Ids>
+    <Description>
+      <Title>BIR_12-sc-2010-07-26-254182</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">BIR_12-sc-2010-07-26-254182</Attribute>
+      <Attribute attribute_name="INSDC center name">SC</Attribute>
+      <Attribute attribute_name="INSDC first public">2010-07-26T13:12:25Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T09:52:35Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS013338</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS013338</Attribute>
+      <Attribute attribute_name="Title">Mycobacterium tuberculosis</Attribute>
+    </Attributes>
+    <Status status="live" when="2018-03-10T08:11:11"/>
+  </BioSample>
+</BioSampleSet>

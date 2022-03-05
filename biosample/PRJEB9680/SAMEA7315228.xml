@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-09-16T00:00:00.000" last_update="2021-08-22T21:00:47.000" submission_date="2020-09-17T10:09:32.423" id="16194257" accession="SAMEA7315228">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA7315228</Id>
+      <Id db="SRA">ERS5073770</Id>
+    </Ids>
+    <Description>
+      <Title>WGS of MTBC isolates</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2020-09-16</Attribute>
+      <Attribute attribute_name="ENA last update">2020-09-16</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA7315228</Attribute>
+      <Attribute attribute_name="INSDC center alias">FZB</Attribute>
+      <Attribute attribute_name="INSDC center name">FORSCHUNGSZENTRUM BORSTEL</Attribute>
+      <Attribute attribute_name="INSDC first public">2020-09-16T17:05:03Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2020-09-16T15:33:07Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">TNZ-38</Attribute>
+      <Attribute attribute_name="common name">Mycobacterium tuberculosis complex bacterium</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">TNZ-38</Attribute>
+    </Attributes>
+    <Status status="live" when="2020-09-17T12:09:54.240"/>
+  </BioSample>
+</BioSampleSet>

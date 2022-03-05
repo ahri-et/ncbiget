@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-07-24T00:00:00.000" last_update="2021-02-24T11:37:21.943" submission_date="2020-07-24T18:52:06.520" id="15641673" accession="SAMN15641673">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN15641673</Id>
+      <Id db_label="Sample name">MTBDR_Specimen16_MiSeq</Id>
+      <Id db="SRA">SRS7087005</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Hong Kong Sanatorium &amp; Hospital</Name>
+      <Contacts>
+        <Contact email="waising.chan@connect.polyu.hk">
+          <Name>
+            <First>Siu-Fai</First>
+            <Last>Tang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">MTBDR_Strain16_MiSeq</Attribute>
+      <Attribute attribute_name="isolate" harmonized_name="isolate" display_name="isolate">MTBDR_Patient16_MiSeq</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">HKSH</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2017-04-06</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Hong Kong</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">Lymph node FNA</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">22.3193 N 114.1694 E</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA648373">648373</Link>
+    </Links>
+    <Status status="live" when="2020-07-24T18:52:06.520"/>
+  </BioSample>
+</BioSampleSet>

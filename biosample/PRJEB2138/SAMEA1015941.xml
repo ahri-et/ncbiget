@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2012-01-16T00:00:00.000" last_update="2021-08-20T19:59:25.000" submission_date="2012-01-20T22:08:40.610" id="776978" accession="SAMEA1015941">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA1015941</Id>
+      <Id db="SRA">ERS053679</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ArrayExpress-Sex" harmonized_name="sex" display_name="sex">not applicable</Attribute>
+      <Attribute attribute_name="ArrayExpress-Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="ENA-FIRST-PUBLIC">2012-01-16</Attribute>
+      <Attribute attribute_name="ENA-LAST-UPDATE">2018-03-09</Attribute>
+      <Attribute attribute_name="External Id">SAMEA1015941</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2012-01-16T15:10:05Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T09:54:10Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">0828B-sc-2011-09-07T13:19:33Z-1276499</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2009</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">Russia</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">disease</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">not known</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">0828B-sc-2011-09-07T13:19:33Z-1276499</Attribute>
+      <Attribute attribute_name="serovar" harmonized_name="serovar" display_name="serovar">NA</Attribute>
+      <Attribute attribute_name="specific_host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">0828B</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-09-10T08:19:52"/>
+  </BioSample>
+</BioSampleSet>

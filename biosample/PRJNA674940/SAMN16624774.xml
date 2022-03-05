@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-11-27T00:39:25.450" last_update="2021-04-19T04:41:17.527" submission_date="2020-11-02T11:24:05.660" id="16624774" accession="SAMN16624774">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN16624774</Id>
+      <Id db_label="Sample name">SAMNMS3207</Id>
+      <Id db="SRA">SRS8727989</Id>
+    </Ids>
+    <Description>
+      <Title>Microbe sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>Sequencing Batch: TB04_08</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name url="https://ipromise.uitm.edu.my/">Integrative Pharmacogenomics Institute (iPROMISE)</Name>
+      <Contacts>
+        <Contact email="zakisalleh@uitm.edu.my">
+          <Name>
+            <First>Mohd Zaki</First>
+            <Last>Salleh</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Microbe, viral or environmental</Model>
+    </Models>
+    <Package display_name="Microbe; version 1.0">Microbe.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">MS3207</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">missing</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">2019</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Malaysia</Attribute>
+      <Attribute attribute_name="sample_type" harmonized_name="sample_type" display_name="sample type">Microbial Culture</Attribute>
+      <Attribute attribute_name="biomaterial_provider" harmonized_name="biomaterial_provider" display_name="biomaterial provider">National Public Health Laboratory (NPHL), Sungai Buloh, Selangor, Malaysia</Attribute>
+      <Attribute attribute_name="Drug Susceptibility Testing Profiles">Sensitive Mtb isolate</Attribute>
+    </Attributes>
+    <Status status="live" when="2020-11-27T00:39:25.450"/>
+  </BioSample>
+</BioSampleSet>

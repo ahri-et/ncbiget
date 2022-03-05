@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-12-16T00:00:00.000" last_update="2021-12-16T01:39:15.290" submission_date="2021-02-10T12:26:08.680" id="17856741" accession="SAMN17856741">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN17856741</Id>
+      <Id db="SRA">SRS8229336</Id>
+      <Id db="GEO">GSM5074599</Id>
+    </Ids>
+    <Description>
+      <Title>H37Rv_T24_BDQ_5.75_B</Title>
+      <Organism taxonomy_id="83332" taxonomy_name="Mycobacterium tuberculosis H37Rv">
+        <OrganismName>Mycobacterium tuberculosis H37Rv</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Baliga, Institute for Systems Biology</Name>
+      <Contacts>
+        <Contact email="eliza.peterson@systemsbiology.org">
+          <Name>
+            <First>Eliza</First>
+            <Last>Peterson</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">bacterial culture</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">H37Rv</Attribute>
+      <Attribute attribute_name="drug treatment">5.75 ug/mL</Attribute>
+      <Attribute attribute_name="treatment time">24 hour</Attribute>
+      <Attribute attribute_name="type-material">type strain of Mycobacterium tuberculosis</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5074599">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5074599</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA701251">701251</Link>
+    </Links>
+    <Status status="live" when="2021-12-15T18:39:32.640"/>
+  </BioSample>
+</BioSampleSet>

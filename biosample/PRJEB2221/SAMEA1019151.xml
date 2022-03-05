@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2011-09-27T00:00:00.000" last_update="2021-08-20T20:00:59.000" submission_date="2011-09-29T19:50:04.396" id="728253" accession="SAMEA1019151">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA1019151</Id>
+      <Id db="SRA">ERS031546</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis; Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ArrayExpress-Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="ArrayExpress-StrainOrLine" harmonized_name="strain" display_name="strain">P000011</Attribute>
+      <Attribute attribute_name="ENA first public">2011-09-27</Attribute>
+      <Attribute attribute_name="ENA last update">2018-03-09</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA1019151</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2011-09-27T09:08:59Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T11:42:59Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">Bir_286-sc-2011-04-19T12:42:43Z-1125270</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2007</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">United Kingdom: Midlands</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">disease: tuberculosis</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">not known</Attribute>
+      <Attribute attribute_name="pubmed id">23158499</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">Bir_286-sc-2011-04-19T12:42:43Z-1125270</Attribute>
+      <Attribute attribute_name="specific host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">Bir 286</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-09-10T08:19:12"/>
+  </BioSample>
+</BioSampleSet>

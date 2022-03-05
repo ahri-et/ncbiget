@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2015-10-06T00:00:00.000" last_update="2021-08-21T07:50:22.000" submission_date="2015-10-07T12:09:42.640" id="4155141" accession="SAMEA3558845">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA3558845</Id>
+      <Id db="SRA">ERS865994</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2015-10-06</Attribute>
+      <Attribute attribute_name="ENA last update">2015-09-25</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA3558845</Attribute>
+      <Attribute attribute_name="INSDC center alias">LSHTM</Attribute>
+      <Attribute attribute_name="INSDC center name">LSHTM</Attribute>
+      <Attribute attribute_name="INSDC first public">2015-10-06T17:01:22Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2015-09-25T14:08:58Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">mtb737</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">mtb737</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-10-22T16:42:04.783"/>
+  </BioSample>
+</BioSampleSet>

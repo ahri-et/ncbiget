@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2014-02-18T00:00:00.000" last_update="2021-08-21T01:39:45.000" submission_date="2014-05-06T17:06:27.866" id="2749541" accession="SAMEA1929808">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA1929808</Id>
+      <Id db="SRA">ERS330001</Id>
+    </Ids>
+    <Description>
+      <Title>Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ArrayExpress-Species">Mycobacterium tuberculosis</Attribute>
+      <Attribute attribute_name="ENA first public">2014-02-18</Attribute>
+      <Attribute attribute_name="ENA last update">2018-03-09</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000011</Attribute>
+      <Attribute attribute_name="External Id">SAMEA1929808</Attribute>
+      <Attribute attribute_name="INSDC center alias">SC</Attribute>
+      <Attribute attribute_name="INSDC center name">Wellcome Sanger Institute</Attribute>
+      <Attribute attribute_name="INSDC first public">2014-02-18T09:19:12Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T10:19:13Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">S00019892-sc-2013-07-25T14:42:38Z-1672140</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">S00019892-sc-2013-07-25T14:42:38Z-1672140</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-08T14:37:49"/>
+  </BioSample>
+</BioSampleSet>

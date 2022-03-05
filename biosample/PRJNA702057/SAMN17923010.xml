@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-07-16T00:00:00.000" last_update="2021-07-16T03:58:32.317" submission_date="2021-02-16T08:11:12.653" id="17923010" accession="SAMN17923010">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN17923010</Id>
+      <Id db="SRA">SRS8264171</Id>
+      <Id db="GEO">GSM5085876</Id>
+    </Ids>
+    <Description>
+      <Title>MtrA-pH5-induced-2_S10</Title>
+      <Organism taxonomy_id="83332" taxonomy_name="Mycobacterium tuberculosis H37Rv">
+        <OrganismName>Mycobacterium tuberculosis H37Rv</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Baliga, Institute for Systems Biology</Name>
+      <Contacts>
+        <Contact email="eliza.peterson@systemsbiology.org">
+          <Name>
+            <First>Eliza</First>
+            <Last>Peterson</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">bacterial culture</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">H37Rv</Attribute>
+      <Attribute attribute_name="induction">ATc induced</Attribute>
+      <Attribute attribute_name="time">18 hour</Attribute>
+      <Attribute attribute_name="ph" harmonized_name="ph" display_name="pH">5.6</Attribute>
+      <Attribute attribute_name="experiment">2</Attribute>
+      <Attribute attribute_name="type-material">type strain of Mycobacterium tuberculosis</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5085876">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5085876</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA702057">702057</Link>
+    </Links>
+    <Status status="live" when="2021-07-16T02:00:27.297"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2015-02-18T00:00:00.000" last_update="2021-08-21T04:15:28.000" submission_date="2015-02-19T09:06:37.473" id="3354145" accession="SAMEA3231760">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA3231760</Id>
+      <Id db="SRA">ERS652982</Id>
+    </Ids>
+    <Description>
+      <Title>M outbreak strain Argentina</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+      <Comment>
+        <Paragraph>Large outbreak of pre-XDR TB, Argentina</Paragraph>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="ENA first public">2015-02-18</Attribute>
+      <Attribute attribute_name="ENA last update">2016-10-21</Attribute>
+      <Attribute attribute_name="ENA-CHECKLIST">ERC000028</Attribute>
+      <Attribute attribute_name="External Id">SAMEA3231760</Attribute>
+      <Attribute attribute_name="INSDC center alias">NORWEGIAN INSTITUTE OF PUBLIC HEALTH</Attribute>
+      <Attribute attribute_name="INSDC center name">NORWEGIAN INSTITUTE OF PUBLIC HEALTH</Attribute>
+      <Attribute attribute_name="INSDC first public">2015-02-18T17:02:17Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2016-10-21T09:45:00Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="Submitter Id">MR32</Attribute>
+      <Attribute attribute_name="collection date" harmonized_name="collection_date" display_name="collection date">2013</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea)" harmonized_name="geo_loc_name" display_name="geographic location">Argentina</Attribute>
+      <Attribute attribute_name="host health state" harmonized_name="host_health_state" display_name="host health state">diseased</Attribute>
+      <Attribute attribute_name="host scientific name" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">sputum</Attribute>
+      <Attribute attribute_name="sample name" harmonized_name="sample_name" display_name="sample name">MR32</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">M (lineage 4.1.2.1)</Attribute>
+    </Attributes>
+    <Status status="live" when="2016-10-22T09:36:41"/>
+  </BioSample>
+</BioSampleSet>

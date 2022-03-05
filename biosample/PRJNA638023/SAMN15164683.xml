@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2020-08-12T00:00:00.000" last_update="2020-08-12T01:43:25.757" submission_date="2020-06-08T08:01:11.503" id="15164683" accession="SAMN15164683">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN15164683</Id>
+      <Id db="SRA">SRS6793444</Id>
+      <Id db="GEO">GSM4594618</Id>
+    </Ids>
+    <Description>
+      <Title>CDC_Rv1963c_D1_UT_I_2</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>David Sherman Lab, Department of Microbiology, University of Washington</Name>
+      <Contacts>
+        <Contact email="shuyima1@uw.edu">
+          <Name>
+            <First>Shuyi</First>
+            <Last>Ma</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">7H9 broth culture</Attribute>
+      <Attribute attribute_name="treatment" harmonized_name="treatment" display_name="treatment">untreated</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">CDC1551::Rv1963c</Attribute>
+      <Attribute attribute_name="rv1963c induction state">Induced</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM4594618">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4594618</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA638023">638023</Link>
+    </Links>
+    <Status status="live" when="2020-08-12T01:42:18.637"/>
+  </BioSample>
+</BioSampleSet>

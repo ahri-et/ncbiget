@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-04-13T00:00:00.000" last_update="2021-04-13T06:46:02.265" submission_date="2021-03-25T21:47:05.916" id="18498614" accession="SAMN18498614">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN18498614</Id>
+      <Id db_label="Sample name">S6</Id>
+      <Id db="SRA">SRS8593362</Id>
+    </Ids>
+    <Description>
+      <Title>Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis</Title>
+      <Organism taxonomy_id="1773" taxonomy_name="Mycobacterium tuberculosis">
+        <OrganismName>Mycobacterium tuberculosis</OrganismName>
+      </Organism>
+      <Comment>
+        <Table class="Antibiogram.1.0">
+          <Caption>Antibiogram</Caption>
+          <Header>
+            <Cell>Antibiotic</Cell>
+            <Cell>Resistance phenotype</Cell>
+            <Cell>Measurement sign</Cell>
+            <Cell>Measurement</Cell>
+            <Cell>Measurement units</Cell>
+            <Cell>Laboratory typing method</Cell>
+            <Cell>Laboratory typing platform</Cell>
+            <Cell>Vendor</Cell>
+            <Cell>Laboratory typing method version or reagent</Cell>
+            <Cell>Testing standard</Cell>
+          </Header>
+          <Body>
+            <Row>
+              <Cell>rifampin</Cell>
+              <Cell>resistant</Cell>
+              <Cell>==</Cell>
+              <Cell>4</Cell>
+              <Cell>mg/L</Cell>
+              <Cell>MIC</Cell>
+              <Cell>96-Well Plate</Cell>
+              <Cell>CLSI</Cell>
+            </Row>
+            <Row>
+              <Cell>isoniazid</Cell>
+              <Cell>resistant</Cell>
+              <Cell>&gt;</Cell>
+              <Cell>4</Cell>
+              <Cell>mg/L</Cell>
+              <Cell>MIC</Cell>
+              <Cell>96-Well Plate</Cell>
+              <Cell>CLSI</Cell>
+            </Row>
+            <Row>
+              <Cell>levofloxacin</Cell>
+              <Cell>susceptible</Cell>
+              <Cell>==</Cell>
+              <Cell>0.12</Cell>
+              <Cell>mg/L</Cell>
+              <Cell>MIC</Cell>
+              <Cell>96-Well Plate</Cell>
+              <Cell>CLSI</Cell>
+            </Row>
+            <Row>
+              <Cell>moxifloxacin</Cell>
+              <Cell>resistant</Cell>
+              <Cell>==</Cell>
+              <Cell>4</Cell>
+              <Cell>mg/L</Cell>
+              <Cell>MIC</Cell>
+              <Cell>96-Well Plate</Cell>
+              <Cell>CLSI</Cell>
+            </Row>
+            <Row>
+              <Cell>linezolid</Cell>
+              <Cell>resistant</Cell>
+              <Cell>==</Cell>
+              <Cell>2</Cell>
+              <Cell>mg/L</Cell>
+              <Cell>MIC</Cell>
+              <Cell>96-Well Plate</Cell>
+              <Cell>CLSI</Cell>
+            </Row>
+          </Body>
+        </Table>
+      </Comment>
+    </Description>
+    <Owner>
+      <Name>Aga Khan University Hospital</Name>
+      <Contacts>
+        <Contact email="dksaeed@gmail.com">
+          <Name>
+            <First>Dania</First>
+            <Last>Saeed</Last>
+            <Middle>Khalid</Middle>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">Extensively drug resistant</Attribute>
+      <Attribute attribute_name="collected_by" harmonized_name="collected_by" display_name="collected by">Department of Pathology and Laboratory Medicine, Microbiology Section, Aga Khan University Hospital</Attribute>
+      <Attribute attribute_name="collection_date" harmonized_name="collection_date" display_name="collection date">Not available</Attribute>
+      <Attribute attribute_name="geo_loc_name" harmonized_name="geo_loc_name" display_name="geographic location">Pakistan: Punjab</Attribute>
+      <Attribute attribute_name="host" harmonized_name="host" display_name="host">Homo sapiens</Attribute>
+      <Attribute attribute_name="host_disease" harmonized_name="host_disease" display_name="host disease">Tuberculosis</Attribute>
+      <Attribute attribute_name="isolation_source" harmonized_name="isolation_source" display_name="isolation source">Pakistan</Attribute>
+      <Attribute attribute_name="lat_lon" harmonized_name="lat_lon" display_name="latitude and longitude">Not available</Attribute>
+      <Attribute attribute_name="study_ID">S6</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="entrez" target="bioproject" label="PRJNA717333">717333</Link>
+    </Links>
+    <Status status="live" when="2021-04-13T06:46:02.265"/>
+  </BioSample>
+</BioSampleSet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample access="public" publication_date="2021-03-09T00:00:00.000" last_update="2021-03-11T11:50:29.680" submission_date="2021-03-08T10:51:05.393" id="18206606" accession="SAMN18206606">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN18206606</Id>
+      <Id db="SRA">SRS8403185</Id>
+      <Id db="GEO">GSM5141060</Id>
+    </Ids>
+    <Description>
+      <Title>R7937 (1X-TETD #3)</Title>
+      <Organism taxonomy_id="83332" taxonomy_name="Mycobacterium tuberculosis H37Rv">
+        <OrganismName>Mycobacterium tuberculosis H37Rv</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>Singapore Immunology Network (SIgN)</Name>
+      <Contacts>
+        <Contact email="angdzn@immunol.a-star.edu.sg">
+          <Name>
+            <First>Nicholas</First>
+            <Last>Ang</Last>
+          </Name>
+        </Contact>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Bacteria</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">H37Rv</Attribute>
+      <Attribute attribute_name="treatment group">TETD 1x</Attribute>
+      <Attribute attribute_name="type-material">type strain of Mycobacterium tuberculosis</Attribute>
+    </Attributes>
+    <Links>
+      <Link type="url" label="GEO Sample GSM5141060">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5141060</Link>
+      <Link type="entrez" target="bioproject" label="PRJNA707489">707489</Link>
+    </Links>
+    <Status status="live" when="2021-03-09T02:46:19.249"/>
+  </BioSample>
+</BioSampleSet>

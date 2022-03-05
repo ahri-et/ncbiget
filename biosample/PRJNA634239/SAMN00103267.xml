@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BioSampleSet>
+<BioSampleSet>
+  <BioSample submission_date="2010-08-19T15:16:04.157" last_update="2013-11-21T19:06:03.270" publication_date="2009-09-06T12:15:20.587" access="public" id="103267" accession="SAMN00103267">
+    <Ids>
+      <Id db="BioSample">SAMN00103267</Id>
+      <Id db="BI" db_label="Sample name">BROAD:SEQUENCING_SAMPLE:31774.0</Id>
+      <Id db="SRA" is_primary="1">SRS004835</Id>
+    </Ids>
+    <Description>
+      <Title>Generic sample from Mycobacterium tuberculosis 7904-1</Title>
+      <Organism taxonomy_id="593261" taxonomy_name="Mycobacterium tuberculosis 7904-1"/>
+    </Description>
+    <Owner>
+      <Name abbreviation="BI">Broad Institute</Name>
+      <Contacts>
+        <Contact email="sra_submissions@broadinstitute.org"/>
+      </Contacts>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Sample name" harmonized_name="sample_name" display_name="sample name">BROAD:SEQUENCING_SAMPLE:31774.0</Attribute>
+      <Attribute attribute_name="geographic location (country and/or sea,region)" harmonized_name="geo_loc_name" display_name="geographic location">missing</Attribute>
+      <Attribute attribute_name="isolation source" harmonized_name="isolation_source" display_name="isolation source">missing</Attribute>
+      <Attribute attribute_name="strain" harmonized_name="strain" display_name="strain">7904-1</Attribute>
+    </Attributes>
+    <Status status="live" when="2013-11-21T17:22:58.010"/>
+  </BioSample>
+</BioSampleSet>
